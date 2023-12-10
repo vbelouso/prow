@@ -1,3 +1,3 @@
 # prow
 
-Trigger
+Triggers
